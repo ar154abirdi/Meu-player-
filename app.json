@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Meu Player",
+    "slug": "meu-player-rmn-e5qap0lsd5kzk7maq",
+    "owner": "hakari312s-team",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "extra": {
+      "eas": {
+        "projectId": "ec367f04-df32-4e49-b412-ec805aa02623"
+      }
+    },
+    "android": {
+      "package": "com.meuplayer.app",
+      "permissions": ["READ_MEDIA_AUDIO", "READ_EXTERNAL_STORAGE"]
+    },
+    "plugins": ["expo-media-library"]
+  }
+}
